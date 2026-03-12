@@ -33,6 +33,7 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 Developed by:NEERAJA MADASAMY
 RegisterNumber:212225240099
+```
 module siso(clk,sin,q);
 input clk,sin;
 output [3:0]q;
@@ -45,6 +46,7 @@ q[2]=q[1];
 q[3]=q[2];
 end
 endmodule
+```
 
 
 **RTL LOGIC FOR SISO Shift Register**
