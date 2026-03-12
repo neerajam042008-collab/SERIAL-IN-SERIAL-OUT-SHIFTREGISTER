@@ -46,7 +46,6 @@ q[3]=q[2];
 end
 endmodule
 
-*/
 
 **RTL LOGIC FOR SISO Shift Register**
 <img width="1920" height="1080" alt="Screenshot 2026-03-11 191629" src="https://github.com/user-attachments/assets/b979ef80-8592-4ef2-8f06-fbe794f3d5cd" />
